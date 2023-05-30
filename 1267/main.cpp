@@ -12,7 +12,7 @@ class Solution
 {
 public:
 	// https://leetcode.com/problems/count-servers-that-communicate/description/
-	// O(m * n) complexity
+	// Time complexity: O(m * n)
 	int countServers(const std::vector<std::vector<int>>& grid)
 	{
 		// Two array that store which columns and rows already have a server present.
