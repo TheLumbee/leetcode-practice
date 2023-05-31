@@ -13,6 +13,9 @@ Each question has its own *CMakeLists.txt* file so cmake is required to build.
 I've tried to keep the code clean along with explaining logic when necessary.
 In the *main()* function of each problem is the examples to run. All examples are tested before they are pushed.
 
+## What order are the problems done it?
+Randomly. I just click 'Pick One' and do it.
+
 ## How do I build it?
 As I said above, cmake is required so make sure that is installed.
 To build, simply go to the question directory and run **./build.sh**, with an optional **release** or **debug** argument.
